@@ -122,7 +122,7 @@ useEffect(()=>{
         </nav>
         <div class="cards" id="weather-cards"></div>
         <div class="highlights">
-          <h2 class="heading">today's highlights</h2>
+          <h2 class="heading">today&apos;s highlights</h2>
           <div class="cards">
             <div class="card2">
               <h4 class="card-heading">weather</h4>
